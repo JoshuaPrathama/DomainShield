@@ -1,0 +1,13 @@
+Flask
+flask-cors
+requests
+certifi
+beautifulsoup4
+tldextract
+nltk
+fake-useragent
+seleniumbase
+undetected-chromedriver
+dnspython
+cachetools
+urllib3
